@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppView</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="digite_um_numero">Digite um número</string>
+    <string name="digite_um_segundo_numero">Digite um segundo número</string>
+    <string name="somar">somar</string>
+    <string name="resultado">Resultado</string>
+    <string name="resultado_resp">Resultado</string>
+</resources>
